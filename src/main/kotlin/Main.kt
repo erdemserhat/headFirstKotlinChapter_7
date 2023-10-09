@@ -62,7 +62,18 @@ fun main(args: Array<String>) {
     println(username)
     println(usersurname)
 
-    //this operation can be useful for sql queries.
+    //this operation can be useful for sql queries.3
+
+    var f=User("berkant","koca")
+    var x =2
+    println(f.name.hashCode())
+
+
+    print( f.component2())
+
+
+
+
 
 
 
