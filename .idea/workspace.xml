@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec824a2d-7954-4121-8811-449648fdbba7" name="Changes" comment="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ec824a2d-7954-4121-8811-449648fdbba7" name="Changes" comment="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes&#10;end of chapter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <updated>1696773851104</updated>
       <workItem from="1696773852124" duration="165000" />
       <workItem from="1696777283412" duration="2161000" />
-      <workItem from="1696852637292" duration="6782000" />
+      <workItem from="1696852637292" duration="7080000" />
     </task>
     <task id="LOCAL-00001" summary="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes">
       <option name="closed" value="true" />
@@ -73,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696857739011</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes&#10;end of chapter">
+      <option name="closed" value="true" />
+      <created>1696861658383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696861658383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes" />
+    <MESSAGE value="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes&#10;end of chapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy function&#10;destructuring object&#10;== operator (equals) in data classes&#10;toString function in data classes&#10;end of chapter" />
   </component>
 </project>
